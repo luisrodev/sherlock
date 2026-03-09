@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "name": "CajaUnica",
+      "label": "cajaunica",
+      "platform": "react-native",
+      "version": "0.0.1",
+      "env": "development",
+      "lokiUrl": "http://localhost:3100",
+      "labels": {
+        "app": "cajaunica",
+        "platform": "react-native"
+      }
+    },
+    {
+      "name": "OtroProyecto",
+      "label": "otro-proyecto",
+      "platform": "web",
+      "version": "1.2.0",
+      "env": "production",
+      "lokiUrl": "http://localhost:3100",
+      "labels": {
+        "app": "otro-proyecto",
+        "platform": "web"
+      }
+    }
+  ]
+}
